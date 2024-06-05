@@ -25,7 +25,7 @@ const StlyedHeading = styled.h1`
   }
 `;
 const StlyedPara = styled.p`
-  color: #7e7e7e;
+  color: white;
   font-size: 1.7rem;
   &:hover {
     color: white;
