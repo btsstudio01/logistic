@@ -1,0 +1,57 @@
+.imagePanelText, .coverImagePanelText {
+  color: #fff;
+  position: relative;
+  cursor: pointer;
+  padding-left: 30px;
+  padding-right: 10px;
+  white-space: pre-line;
+  transition: transform 0.5s;
+
+  @media (max-width: 992px) {
+    transform: translateY(-25px);
+    color: #fff;
+  }
+}
+
+.image-container {
+  overflow: hidden;
+  /* Ensure the image doesn't exceed the container */
+}
+
+.image-view-more {
+  display: none;
+}
+
+.image-container img {
+  /* Define default state */
+  transition: transform 0.3s ease-in-out;
+}
+
+.image-container:hover img {
+  transform: scale(1.1) translate3d(0, 0, 0);
+  transition: transform 0.3s ease-in-out;
+}
+
+.image-container:hover .imagePanelText {
+  transform: translateY(-35px);
+  color: #fff;
+}
+
+.image-container:hover .coverImagePanelText {
+  transform: translateY(-115px);
+  color: #fff;
+}
+
+.image-container:hover .image-view-more {
+  display: inline !important;
+}
+
+.image-container::after {
+  background-image: linear-gradient(0deg, #1d4289, transparent);
+  bottom: 0;
+  content: "";
+  height: 60%;
+  left: 0;
+  position: absolute;
+  width: 100%;
+}
