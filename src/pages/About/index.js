@@ -53,11 +53,11 @@ const About = () => {
 
         <NavbarCarreer
           menuItems={[
-            { label: "ABOUT MWL LOGISTICS" },
+            { label: "ABOUT LOGISTICS" },
             { label: "COMMITMENTS" },
             { label: "CASE STUDIES" },
             { label: "LIFE'S ESSENTIALS" },
-            { label: "MWL PARTNERS" },
+            { label: "PARTNERS" },
           ]}
           extraDropdown={false}
         />

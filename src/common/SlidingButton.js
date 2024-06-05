@@ -338,7 +338,7 @@ const Button = (props) => {
 
       <StyledBox>
         <SelectionBox style={{ marginTop: 0 }}>
-          <PrimaryText>MWL Delivers To</PrimaryText>
+          <PrimaryText>Delivers To</PrimaryText>
           <Radio.Group
             onChange={(e) => {
               console.log("f2", e.target.value);

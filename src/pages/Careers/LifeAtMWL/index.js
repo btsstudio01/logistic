@@ -13,11 +13,11 @@ import Jobs from "../../../components/Career/Life@Macworld/Jobs";
 export default function LifeAtMWT() {
   return <MainLayout>
  
-    <Banner title="LIFE AT MWL LOGISTICS" 
+    <Banner title="LIFE AT LOGISTICS" 
     bgImage={bg}
-    desc="Macworld Logistics is a great place to develop your talent and fulfill your potential"/>
-    <WorkingAtMWL title="WORKING AT MACWORLD LOGISTICS" desc="At Macworld Logistics you are responsible for delivering services at the highest quality to our customers demonstrating your skills every day."/>
-    <GetToKnow title="GET TO KNOW MACWORLD LOGISTICS" data={getToKnowData}/>
+    desc="Logistics is a great place to develop your talent and fulfill your potential"/>
+    <WorkingAtMWL title="WORKING AT LOGISTICS" desc="At Logistics you are responsible for delivering services at the highest quality to our customers demonstrating your skills every day."/>
+    <GetToKnow title="GET TO KNOW LOGISTICS" data={getToKnowData}/>
     <GreatWorkPlace/>
     <Jobs/>
   </MainLayout>;

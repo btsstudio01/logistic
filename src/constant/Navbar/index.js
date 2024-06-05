@@ -224,7 +224,7 @@ const Navbar = ({ userId }) => {
                           </Menu.Item>
 
                           <Menu.Item key="4">
-                            <a href={"/career/lifeatmwl"}>Life @ MWL</a>
+                            <a href={"/career/lifeatmwl"}>Life @ Logistic</a>
                           </Menu.Item>
 
                           <Menu.Item key="5">
@@ -239,7 +239,7 @@ const Navbar = ({ userId }) => {
                           </Menu.Item>
 
                           <Menu.Item key="4">
-                            <a href={"/career/leadershipmwl"}>Leader Ship @ MWL</a>
+                            <a href={"/career/leadershipmwl"}>Leader Ship</a>
                           </Menu.Item>
 
                           <Menu.Item key="5">
@@ -254,7 +254,7 @@ const Navbar = ({ userId }) => {
                           </Menu.Item>
                           <Menu.Item key="5">
                             <a href={"/leadershipmwl"}>
-                              Leadership at MWL
+                              Leadership
                             </a>
                           </Menu.Item>
                         </StyledSubMenu>

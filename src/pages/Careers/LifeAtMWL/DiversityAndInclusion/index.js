@@ -60,7 +60,7 @@ export default function DiversionAndInclusion() {
 
       <NavbarCarreer
         menuItems={[
-          { label: "MWL TALENT APPROACH" },
+          { label: "TALENT APPROACH" },
           { label: "DIVERSITY & INCLUSION" },
           { label: "REWARDS " },
           { label: "YOUR PATH TO GROW" },
@@ -69,7 +69,7 @@ export default function DiversionAndInclusion() {
 
       <WorkingAtMWL
         title="WE PROMOTE AND VALUE DIVERSITY"
-        desc="Diversity and Inclusion is in MWL's DNA and strongly promoted because we are represented by our employees all over the world and service a diverse pallet of customers."
+        desc="Diversity and Inclusion is in's DNA and strongly promoted because we are represented by our employees all over the world and service a diverse pallet of customers."
       />
       <InfortmationSection data={diversityAndInclusionData} />
       <ComponentTitleParagraphHorizontal

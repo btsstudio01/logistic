@@ -166,12 +166,12 @@ const MobileNav = ({ userId }) => {
             </Menu.Item>
 
             <Menu.Item key="4">
-              <a href={"/career/lifeatmwl"}>Life @ MWL</a>
+              <a href={"/career/lifeatmwl"}>Life @ logistic</a>
             </Menu.Item>
 
             <Menu.Item key="5">
               <a href={"/career/lifeatmwl/talentsapproach"}>
-                - MWL Talents Approach
+                -Talents Approach
               </a>
             </Menu.Item>
             <Menu.Item key="6">
@@ -181,7 +181,7 @@ const MobileNav = ({ userId }) => {
             </Menu.Item>
 
             <Menu.Item key="4">
-              <a href={"/career/leadershipmwl"}>Leader Ship @ MWL</a>
+              <a href={"/career/leadershipmwl"}>Leader Ship @ Logistic</a>
             </Menu.Item>
 
             <Menu.Item key="5">

@@ -21,21 +21,21 @@ export default function CevaTalentsApproach() {
       {screens.xs ? (
         <BannerSmallScreen
           bgImage={bg}
-          heading=" MWL TALENT APPROACH"
-          text="At MWL Logistics we recognize and utilize each individual’s talent"
+          heading=" TALENT APPROACH"
+          text="At Logistics we recognize and utilize each individual’s talent"
         />
       ) : (
         <Banner
-          title="MWL TALENT APPROACH"
+          title="TALENT APPROACH"
           bgImage={bg}
-          desc="At MWL Logistics we recognize and utilize each individual’s talent"
+          desc="At Logistics we recognize and utilize each individual’s talent"
           height="55vh"
         />
       )}
 
       <NavbarCarreer
         menuItems={[
-          { label: "MWL TALENT APPROACH" },
+          { label: "TALENT APPROACH" },
           { label: "DIVERSITY & INCLUSION" },
           { label: "REWARDS " },
           { label: "YOUR PATH TO GROW" },
@@ -44,7 +44,7 @@ export default function CevaTalentsApproach() {
 
       <WorkingAtMWL
         title="WE RECOGNIZE EACH INDIVIDUALS' TALENT"
-        desc="People are key to our business, and MWL empowers its people: so they view working here as a career and not just a job. Your successes are noticed and celebrated."
+        desc="People are key to our business, and empowers its people: so they view working here as a career and not just a job. Your successes are noticed and celebrated."
       />
       <InfortmationSection data={InformationSectionData} />
     </MainLayout>

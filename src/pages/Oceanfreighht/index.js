@@ -104,20 +104,20 @@ const OceanFreight = () => {
                 <CertificateComponent
                     heading={"Full Container Load (FCL)"}
                     contents={["We provide reliable global integrated door to door FCL services, operating weekly services with 289 Ocean carriers, serving more than 10,000 points port-pairs all over the World."]}
-                    buttonText={"MWL FCL"}
+                    buttonText={"Logistic FCL"}
                     imageSrc={"https://www.cevalogistics.com/images/ratio_100_x_large_picture/AdobeStock_281275486-768-768.webp"}
                     row={"row-reverse"}
                 />
                 <CertificateComponent
                     heading={"Less than Container Load (LCL)"}
                     contents={["We operate weekly services on more than 600 lanes, covering more than 10,000 points port-pairs.", "We offset 100% of the LCL shipments at no extra cost."]}
-                    buttonText={"MWL LCL"}
+                    buttonText={"Logistic LCL"}
                     imageSrc={"https://www.cevalogistics.com/images/ratio_100_x_large_picture/Web-square-lcl-768-768.webp"}
                 />
                 <CertificateComponent
                     heading={"Freight management services"}
                     contents={["We provide a complete range of freight management services which cater to every aspect of transporting your cargo."]}
-                    buttonText={"MWL FMS"}
+                    buttonText={"Logistic FMS"}
                     imageSrc={"https://www.cevalogistics.com/images/ratio_100_x_large_picture/AdobeStock_30710474_0-768-768.webp"}
                     row={"row-reverse"}
                 />

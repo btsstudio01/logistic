@@ -29,7 +29,7 @@ export const Content2Data = {
 
 export const AboutKeySectors = [
   {
-    title: "ABOUT MWL",
+    title: "ABOUT",
     img: Consumercard,
   },
   {

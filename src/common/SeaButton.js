@@ -321,7 +321,7 @@ const Button = (props) => {
 
           <StyledBox>
             <SelectionBox style={{ marginTop: 0 }}>
-              <PrimaryText>MWL Picks Up From</PrimaryText>
+              <PrimaryText>Picks Up From</PrimaryText>
               <Radio.Group
                 onChange={(e) => {
                   setPickUp(e.target.value);

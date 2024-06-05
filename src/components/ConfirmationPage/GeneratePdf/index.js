@@ -214,7 +214,7 @@ const GeneratePdf = ({ InitialData, AirExpressServiceData, showButton }) => {
                   document={
                     <PDFDesign id={Math.random() * 1000} data={InitialData} />
                   }
-                  fileName={`MWL Express ${time}`}
+                  fileName={`Express ${time}`}
                 >
                   {({ blob, url, loading, error }) => (
                     <Button

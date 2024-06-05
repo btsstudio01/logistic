@@ -55,18 +55,18 @@ export default function LeadingBusiness() {
       />
       <WorkingAtMWL
         title="Nadia Rebiero, Leading Business"
-        desc="Nadia joined MWL in 2000, currently Managing Director for Latin America."
+        desc="Nadia joined in 2000, currently Managing Director for Latin America."
       />
       <InfortmationSection data={aboutMeData} />
       <InspiringLeaders
-        title="Why I Choose MWL:"
-        desc="It was a career move. I started  working for an airline cargo department, made a couple of moves and found I loved logistics, but  wanted a wider regional role. MWL was immediately a good fit for me: I see myself as an entrepreneur, and MWL is a company where you are allowed a good degree of autonomy. I am also very aligned with the CEVA values, especially where I feel that the company is open and supports Diversity and Inclusion."
+        title="Why I Choose:"
+        desc="It was a career move. I started  working for an airline cargo department, made a couple of moves and found I loved logistics, but  wanted a wider regional role was immediately a good fit for me: I see myself as an entrepreneur, and is a company where you are allowed a good degree of autonomy. I am also very aligned with the CEVA values, especially where I feel that the company is open and supports Diversity and Inclusion."
         bgcolor="white"
         boldtext="There are also great people, fun to work with, and  if you want to grow there are good internal opportunities."
         textalign="justify"
       />
       <InfortmationSection data={importancedata}/>
-      <Info title="Leading Business MWL:" desc={[{boldtext:"There is very open communication within CEVA: the structure is very flat, flexible and informal. We are very agile." , text:"In my experience, some other companies are slow, rigid and inflexible, with little access to higher levels. That’s not the case at CEVA: it is a customer focused company. You can feel it in our meetings, where we talk about customers much more than about internal processes."},
+      <Info title="Leading Business:" desc={[{boldtext:"There is very open communication within CEVA: the structure is very flat, flexible and informal. We are very agile." , text:"In my experience, some other companies are slow, rigid and inflexible, with little access to higher levels. That’s not the case at CEVA: it is a customer focused company. You can feel it in our meetings, where we talk about customers much more than about internal processes."},
     {boldtext:"Our support functions – IT and HR - work with the business." , text:"And there’s a strong culture of recognition and celebration, such as our CEO mentioning business successes in global announcements and thanking people who achieved a business win."}]}/>
     <div style={{marginTop:"2rem" , width: screenWidth>768?"93%":"100%" , padding:screenWidth>768?"4rem":"1rem" , marginLeft:screenWidth>768 ? "9rem" :"0rem"}} >
       <Image src={nadia} preview={false} style={{width:"100%" , height:"100%" , objectFit:"cover"}}/>

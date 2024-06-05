@@ -136,7 +136,7 @@ export const FourServicesData = [
         id: 1,
         title: "AIR CHARTER",
         subTitle: "Impossible is not a word in our dictionary",
-        description: "Our dedicated in-house charter services are unique in the forwarding industry. We have a reputation for taking on the challenges others consider too difficult. With a 24/7, 365 global operation this team thinks outside the box to match the right aircraft to your load.&nbsp; If it needs to move by air, the MWL team will have the answer.",
+        description: "Our dedicated in-house charter services are unique in the forwarding industry. We have a reputation for taking on the challenges others consider too difficult. With a 24/7, 365 global operation this team thinks outside the box to match the right aircraft to your load.&nbsp; If it needs to move by air, the team will have the answer.",
         compId: "id-Air-Charter"
     },
     {
@@ -181,7 +181,7 @@ export const FourServicesContractData = [
         id: 2,
         title: "TRANSPORTATION",
         subTitle: "Impossible is not a word in our dictionary",
-        description: "Our dedicated in-house charter services are unique in the forwarding industry. We have a reputation for taking on the challenges others consider too difficult. With a 24/7, 365 global operation this team thinks outside the box to match the right aircraft to your load.&nbsp; If it needs to move by air, the MWL team will have the answer.",
+        description: "Our dedicated in-house charter services are unique in the forwarding industry. We have a reputation for taking on the challenges others consider too difficult. With a 24/7, 365 global operation this team thinks outside the box to match the right aircraft to your load.&nbsp; If it needs to move by air, the team will have the answer.",
         compId: "id-TRANSPORTATION"
     },
     {
