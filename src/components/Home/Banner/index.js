@@ -35,7 +35,7 @@ const Banner = () => {
   return (
     <VideoContainer>
       {/* <Video src={bannerVideo} autoPlay loop muted /> */}
-      <Image src={bannerVideo} alt="banner" width={"100%"} />
+      <Image src={bannerVideo} alt="banner" width={"100%"} height={"85vh"} />
 
       <div style={{ position: "relative", zIndex: 1 }}>
         {/* <NavbarContainer>
